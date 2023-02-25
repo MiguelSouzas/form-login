@@ -1,2 +1,2 @@
 # form-login
-Formulário de login par estudo HTML e CSS
+Formulário de login para estudo HTML e CSS
